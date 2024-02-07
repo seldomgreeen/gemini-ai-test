@@ -27,3 +27,10 @@ To install mine:
 ```sh
 
 ```
+
+# To Do
+1. Make a UI(kinda)
+2. make it better
+```sh
+
+```
