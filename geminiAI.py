@@ -46,7 +46,8 @@ def textBased():
     print(response.text)
 
 def imageBased():
-    img = PIL.Image.open(config["image"].jpg') # if this line makes an error just do ` img = PIL.Image.open("image.jpg) ` and replace image with the name of your image.
+    image = config["image"]
+    img = PIL.Image.open(image+'.jpg')
     img 
     response = model.generate_content(img)
     print(response.text)
