@@ -2,7 +2,7 @@
 -------------------------------------------------------
 ### _its not much now but 🤷_
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gemini_language_model_logo.png/800px-Gemini_language_model_logo.png)](https://https://deepmind.google/technologies/gemini/#introduction)
+[![N|Solid](https://https://deepmind.google/technologies/gemini/#introduction)]
 
 Just a test of the Gemini api for school project
 
