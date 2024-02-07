@@ -6,7 +6,7 @@ import PIL.Image
 
 
 with open("config.json") as config_file:
-    config = json.load(config_file)
+    config = json.load(config_file) # Put your API Key in config.json
 
 GOOGLE_API_KEY = config["API_KEY"]
 genai.configure(api_key=GOOGLE_API_KEY)
